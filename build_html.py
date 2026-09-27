@@ -4,6 +4,12 @@ import html
 with open("manifest.json", encoding="utf-8") as f:
     manifest = json.load(f)
 
+MAPS_URL = "https://maps.app.goo.gl/CPE18uMPasKHv1aZ9"
+
+ICON_PHONE = '<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" class="icon-inline"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1z"/></svg>'
+ICON_PIN = '<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" class="icon-inline"><path d="M12 2c-4.4 0-8 3.6-8 8 0 5.5 7 12.6 7.3 12.9.2.1.4.1.6.1s.4 0 .6-.1c.3-.3 7.3-7.4 7.3-12.9 0-4.4-3.6-8-8-8m0 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/></svg>'
+ICON_MAIL = '<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" class="icon-inline"><path d="M2 5.5A1.5 1.5 0 0 1 3.5 4h17A1.5 1.5 0 0 1 22 5.5v13a1.5 1.5 0 0 1-1.5 1.5h-17A1.5 1.5 0 0 1 2 18.5zm2.2.3 7.4 5.6a.7.7 0 0 0 .8 0l7.4-5.6z"/></svg>'
+
 # Section order & display config
 # (manifest_key, display_title, kind)
 SECTIONS = [
@@ -132,9 +138,9 @@ html_doc = f'''<!doctype html>
     <h1>SOUND ELECTRONICS</h1>
     <p class="tagline">Wholesale Dealer in Panel, LED/LCD Spare Parts, IC, Transistor, CRT Spares, Wires &amp; Cables, LNB, Receiver, LCD/LED Stand &amp; Other Spares</p>
     <div class="cover-contact">
-      <a href="tel:+919773679006">&#128222; +91 97736 79006</a>
-      <a href="mailto:rdjainsound@gmail.com">&#9993; rdjainsound@gmail.com</a>
-      <span>&#128205; 6A, Soonawala Building, 44-B, Proctor Road, near Hotel Grant, Grant Road (E), Mumbai 400 007</span>
+      <a href="tel:+919773679006">{ICON_PHONE} +91 97736 79006</a>
+      <a href="mailto:rdjainsound@gmail.com">{ICON_MAIL} rdjainsound@gmail.com</a>
+      <a href="{MAPS_URL}" target="_blank" rel="noopener">{ICON_PIN} 6A, Soonawala Building, 44-B, Proctor Road, near Hotel Grant, Grant Road (E), Mumbai 400 007</a>
     </div>
     <div class="cover-actions">
       <a href="#" class="btn btn-whatsapp" id="whatsappShareBtn" target="_blank" rel="noopener">
@@ -163,9 +169,9 @@ html_doc = f'''<!doctype html>
     <h3>SOUND ELECTRONICS</h3>
     <p class="contact-card-tag">Wholesale Dealer in Panel, LED/LCD Spare Parts, IC, Transistor, CRT Spares, Wires &amp; Cables, LNB, Receiver, LCD/LED Stand &amp; Other Spares</p>
     <ul class="contact-card-list">
-      <li>&#128222; <a href="tel:+919773679006">Mayank &mdash; +91 97736 79006</a></li>
-      <li>&#9993; <a href="mailto:rdjainsound@gmail.com">rdjainsound@gmail.com</a></li>
-      <li>&#128205; 6A, Soonawala Building, 44-B, Proctor Road, near Hotel Grant, Grant Road (E), Mumbai 400 007</li>
+      <li>{ICON_PHONE} <a href="tel:+919773679006">Mayank &mdash; +91 97736 79006</a></li>
+      <li>{ICON_MAIL} <a href="mailto:rdjainsound@gmail.com">rdjainsound@gmail.com</a></li>
+      <li>{ICON_PIN} <a href="{MAPS_URL}" target="_blank" rel="noopener">6A, Soonawala Building, 44-B, Proctor Road, near Hotel Grant, Grant Road (E), Mumbai 400 007</a></li>
     </ul>
   </div>
 </section>
@@ -173,7 +179,7 @@ html_doc = f'''<!doctype html>
 <footer class="site-footer">
   <img src="assets/images/logo.webp" alt="Sound Electronics" width="60" height="60">
   <p><strong>SOUND ELECTRONICS</strong></p>
-  <p>6A, Soonawala Building, 44-B, Proctor Road, near Hotel Grant, Grant Road (E), Mumbai 400 007</p>
+  <p><a href="{MAPS_URL}" target="_blank" rel="noopener">6A, Soonawala Building, 44-B, Proctor Road, near Hotel Grant, Grant Road (E), Mumbai 400 007</a></p>
   <p><a href="tel:+919773679006">+91 97736 79006</a> &nbsp;|&nbsp; <a href="mailto:rdjainsound@gmail.com">rdjainsound@gmail.com</a></p>
   <div class="footer-actions">
     <a href="#" class="btn btn-whatsapp" id="whatsappShareBtn2" target="_blank" rel="noopener">Share on WhatsApp</a>

@@ -138,8 +138,22 @@ a { color: var(--navy); }
   margin-bottom: 26px;
 }
 
-.cover-contact a { color: #fff; text-decoration: none; }
+.cover-contact a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 6px;
+  justify-content: center;
+  text-align: left;
+}
 .cover-contact a:hover { text-decoration: underline; }
+
+.icon-inline {
+  flex-shrink: 0;
+  position: relative;
+  top: 0.15em;
+}
 
 .cover-actions {
   display: flex;
@@ -336,6 +350,12 @@ main { max-width: 1100px; margin: 0 auto; padding: 0 14px; }
   flex-direction: column;
   gap: 12px;
   font-size: 0.95rem;
+}
+
+.contact-card-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
 }
 
 .contact-card-list a { color: var(--text); text-decoration: none; }
