@@ -1,0 +1,791 @@
+{
+  "1.Backlight": {
+    "number": "1",
+    "crop_applied": false,
+    "images": [
+      {
+        "file": "assets/images/1/2025_04_09_12_41_20_IMG_0334.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2025_04_15_20_34_58_IMG_0403.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2025_04_15_21_17_25_IMG_0411.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2025_07_10_16_47_22_IMG_1616.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2025_07_25_21_10_18_IMG_2185.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2025_10_12_10_25_38_IMG_3343.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2025_10_12_10_30_11_IMG_3346.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_01_30_12_15_05_IMG_4875.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_01_30_12_18_29_IMG_4876.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_02_03_11_16_17_IMG_4930.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_02_03_11_23_24_IMG_4931.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_02_12_20_46_03_IMG_5048.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_02_12_23_43_55_IMG_5049.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_04_13_11_48_42_IMG_6130.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_05_26_12_42_24_IMG_6710.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/1/2026_05_28_12_13_24_IMG_6734.webp",
+        "width": 600,
+        "height": 800
+      }
+    ]
+  },
+  "10.Panel": {
+    "number": "10",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/10/H03bb6fe27821414bad5a51fbbb138bf8w.webp",
+        "width": 636,
+        "height": 532
+      }
+    ]
+  },
+  "10.Speakers for TV 0.5": {
+    "number": "10",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/10_Speakers_for_TV_0/2025_06_11_13_06_38_IMG_0949.webp",
+        "width": 572,
+        "height": 800
+      },
+      {
+        "file": "assets/images/10_Speakers_for_TV_0/2025_06_11_13_13_33_IMG_0951.webp",
+        "width": 665,
+        "height": 800
+      },
+      {
+        "file": "assets/images/10_Speakers_for_TV_0/2025_11_07_21_29_54_IMG_3914.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/10_Speakers_for_TV_0/2025_11_17_11_35_11_IMG_4037.webp",
+        "width": 737,
+        "height": 800
+      },
+      {
+        "file": "assets/images/10_Speakers_for_TV_0/2026_02_05_11_34_56_IMG_4949.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/10_Speakers_for_TV_0/2026_06_25_11_22_27_IMG_7244.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/10_Speakers_for_TV_0/2026_09_02_11_45_53_IMG_8709.webp",
+        "width": 800,
+        "height": 800
+      }
+    ]
+  },
+  "11.Stand 0.5": {
+    "number": "11",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/11_Stand_0/2024_06_18_09_45_08_IMG_2417.webp",
+        "width": 800,
+        "height": 612
+      },
+      {
+        "file": "assets/images/11_Stand_0/2024_06_18_09_45_25_IMG_2424.webp",
+        "width": 800,
+        "height": 700
+      },
+      {
+        "file": "assets/images/11_Stand_0/2024_06_18_09_45_29_IMG_2419.webp",
+        "width": 800,
+        "height": 587
+      },
+      {
+        "file": "assets/images/11_Stand_0/Cl28.webp",
+        "width": 800,
+        "height": 592
+      },
+      {
+        "file": "assets/images/11_Stand_0/p4.webp",
+        "width": 758,
+        "height": 800
+      }
+    ]
+  },
+  "11.Tools": {
+    "number": "11",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/11/2023_08_05_14_50_13_IMG_9832.webp",
+        "width": 800,
+        "height": 592
+      },
+      {
+        "file": "assets/images/11/2025_03_17_12_16_22_IMG_0098.webp",
+        "width": 624,
+        "height": 800
+      },
+      {
+        "file": "assets/images/11/2025_11_14_23_13_26_IMG_3998.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/11/2025_12_31_16_01_23_IMG_4489.webp",
+        "width": 800,
+        "height": 734
+      },
+      {
+        "file": "assets/images/11/2026_05_28_20_34_25_IMG_6765.webp",
+        "width": 800,
+        "height": 511
+      },
+      {
+        "file": "assets/images/11/2026_05_28_20_51_12_IMG_6768.webp",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "assets/images/11/2026_05_30_20_21_56_IMG_6819.webp",
+        "width": 608,
+        "height": 800
+      },
+      {
+        "file": "assets/images/11/SOLDRON_25W_3_With_lavbel.webp",
+        "width": 512,
+        "height": 409
+      }
+    ]
+  },
+  "2.Converters": {
+    "number": "2",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/2/2024_10_09_11_38_51_IMG_7202.webp",
+        "width": 790,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2025_02_28_12_02_51_IMG_9939.webp",
+        "width": 724,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2025_02_28_12_04_28_IMG_9940.webp",
+        "width": 686,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2025_03_28_20_01_00_IMG_0207.webp",
+        "width": 658,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2025_03_28_22_22_23_IMG_0209.webp",
+        "width": 695,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2025_09_10_11_32_19_IMG_2911.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2025_09_17_10_23_36_IMG_2967.webp",
+        "width": 629,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2025_10_17_12_43_27_IMG_3411.webp",
+        "width": 749,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2025_12_30_12_34_00_IMG_4471.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/2/2026_09_04_16_34_44_IMG_8776.webp",
+        "width": 800,
+        "height": 716
+      },
+      {
+        "file": "assets/images/2/2026_09_18_17_50_20_IMG_9068.webp",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "assets/images/2/H28d3388e5dd14d6aad0af979c3e059829.webp",
+        "width": 605,
+        "height": 796
+      }
+    ]
+  },
+  "3.TCONS": {
+    "number": "3",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/3/2025_04_23_13_02_53_IMG_0488.webp",
+        "width": 616,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2025_05_07_13_40_13_IMG_0678.webp",
+        "width": 583,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2025_06_10_21_28_07_IMG_0930.webp",
+        "width": 800,
+        "height": 681
+      },
+      {
+        "file": "assets/images/3/2025_06_10_22_06_13_IMG_0937.webp",
+        "width": 800,
+        "height": 769
+      },
+      {
+        "file": "assets/images/3/2025_06_14_17_46_14_IMG_0978.webp",
+        "width": 633,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2025_06_30_15_32_43_IMG_1434.webp",
+        "width": 703,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2025_12_19_16_35_41_IMG_4346.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2025_12_19_16_42_20_IMG_4348.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2026_02_03_11_11_18_IMG_4928.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2026_02_20_12_27_07_IMG_5191.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2026_02_20_12_30_19_IMG_5192.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/3/2026_02_24_19_08_22_IMG_5278.webp",
+        "width": 580,
+        "height": 800
+      }
+    ]
+  },
+  "4.Microscope": {
+    "number": "4",
+    "crop_applied": false,
+    "images": [
+      {
+        "file": "assets/images/4/2025_01_16_16_42_57_IMG_8588.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/4/2025_12_26_15_21_22_IMG_4407.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/4/2026_05_28_18_33_35_IMG_6757.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/4/2026_06_18_11_26_09_IMG_9084.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/4/2026_07_02_15_20_56_IMG_9085.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/4/2026_07_14_09_08_51_IMG_9086.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/4/2026_08_08_11_00_43_IMG_9087.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/4/2026_08_10_13_48_52_IMG_9088.webp",
+        "width": 800,
+        "height": 800
+      }
+    ]
+  },
+  "5.Programmers and Tester and Multimeter": {
+    "number": "5",
+    "crop_applied": false,
+    "images": [
+      {
+        "file": "assets/images/5/2024_07_28_23_12_44_IMG_2499.webp",
+        "width": 606,
+        "height": 800
+      },
+      {
+        "file": "assets/images/5/2026_03_23_22_46_11_IMG_5776.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/5/2026_03_23_22_48_11_IMG_5777.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/5/2026_03_24_11_10_11_IMG_5780.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/5/2026_05_27_00_06_58_IMG_7225.webp",
+        "width": 800,
+        "height": 533
+      },
+      {
+        "file": "assets/images/5/2026_05_31_22_47_51_IMG_6822.webp",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "assets/images/5/2026_08_10_22_21_11_IMG_8209.webp",
+        "width": 800,
+        "height": 480
+      },
+      {
+        "file": "assets/images/5/Fnirsi_2c53T_.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/5/HTC_830L.webp",
+        "width": 800,
+        "height": 773
+      },
+      {
+        "file": "assets/images/5/TV160.webp",
+        "width": 225,
+        "height": 225
+      }
+    ]
+  },
+  "6.FFC": {
+    "number": "6",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/6/2024_07_28_23_14_52_IMG_2508.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2024_07_28_23_14_52_IMG_2509.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2024_07_28_23_14_53_IMG_2510.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2024_07_28_23_14_53_IMG_2512.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_01_16_16_40_36_IMG_8587.webp",
+        "width": 605,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_01_16_16_44_46_IMG_8589.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_01_16_19_16_21_IMG_8591.webp",
+        "width": 403,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_01_16_19_19_50_IMG_8592.webp",
+        "width": 411,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_01_16_19_28_27_IMG_8593.webp",
+        "width": 443,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_01_16_19_57_13_IMG_8594.webp",
+        "width": 513,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_01_16_20_00_44_IMG_8595.webp",
+        "width": 531,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_02_23_16_33_58_IMG_9834.webp",
+        "width": 505,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_03_26_09_02_33_IMG_0167.webp",
+        "width": 501,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_08_23_12_00_05_IMG_2731.webp",
+        "width": 599,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2025_08_25_20_54_11_IMG_2761.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2026_01_22_11_59_21_IMG_4786.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2026_01_22_12_01_26_IMG_4788.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2026_05_29_20_29_46_IMG_6792.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/6/2026_05_29_20_39_23_IMG_6795.webp",
+        "width": 600,
+        "height": 800
+      }
+    ]
+  },
+  "7.Inverter and Power Supply": {
+    "number": "7",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/7/07eb.webp",
+        "width": 676,
+        "height": 800
+      },
+      {
+        "file": "assets/images/7/129C.webp",
+        "width": 800,
+        "height": 336
+      },
+      {
+        "file": "assets/images/7/132C.webp",
+        "width": 500,
+        "height": 387
+      },
+      {
+        "file": "assets/images/7/CA_188.webp",
+        "width": 440,
+        "height": 377
+      },
+      {
+        "file": "assets/images/7/CA_233.webp",
+        "width": 630,
+        "height": 662
+      },
+      {
+        "file": "assets/images/7/CA_288.webp",
+        "width": 452,
+        "height": 243
+      },
+      {
+        "file": "assets/images/7/Gold_95ES.webp",
+        "width": 800,
+        "height": 430
+      },
+      {
+        "file": "assets/images/7/Gold_97E.webp",
+        "width": 398,
+        "height": 413
+      },
+      {
+        "file": "assets/images/7/Gold_99E.webp",
+        "width": 415,
+        "height": 288
+      },
+      {
+        "file": "assets/images/7/images.webp",
+        "width": 480,
+        "height": 429
+      }
+    ]
+  },
+  "8.Amplifier board": {
+    "number": "8",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/8/2024_07_28_23_03_13_IMG_2413.webp",
+        "width": 800,
+        "height": 527
+      },
+      {
+        "file": "assets/images/8/2024_07_28_23_03_13_IMG_2414.webp",
+        "width": 800,
+        "height": 588
+      },
+      {
+        "file": "assets/images/8/2024_07_28_23_03_13_IMG_2423.webp",
+        "width": 800,
+        "height": 665
+      },
+      {
+        "file": "assets/images/8/2025_03_17_12_30_13_IMG_0100.webp",
+        "width": 533,
+        "height": 800
+      },
+      {
+        "file": "assets/images/8/2025_04_24_21_31_07_IMG_0510.webp",
+        "width": 757,
+        "height": 800
+      },
+      {
+        "file": "assets/images/8/2025_10_11_17_23_06_IMG_3339.webp",
+        "width": 718,
+        "height": 800
+      },
+      {
+        "file": "assets/images/8/2026_04_21_12_34_48_IMG_6239.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/8/2026_04_21_13_53_15_IMG_6241.webp",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "assets/images/8/2026_09_24_14_49_07_IMG_9149.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/8/2026_09_24_14_57_57_IMG_9151.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/8/2026_09_24_15_00_08_IMG_9152.webp",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "file": "assets/images/8/2026_09_24_15_04_13_IMG_9153.webp",
+        "width": 800,
+        "height": 800
+      }
+    ]
+  },
+  "9.Bluetooth Panel": {
+    "number": "9",
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/9/20250221_114940947_iOS.webp",
+        "width": 596,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/20250221_115316605_iOS.webp",
+        "width": 730,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/20250221_115352429_iOS.webp",
+        "width": 596,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/20250221_115413508_iOS.webp",
+        "width": 800,
+        "height": 737
+      },
+      {
+        "file": "assets/images/9/20250221_115444231_iOS.webp",
+        "width": 717,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/20250918_114325287_iOS.webp",
+        "width": 800,
+        "height": 624
+      },
+      {
+        "file": "assets/images/9/20250918_114650212_iOS.webp",
+        "width": 800,
+        "height": 692
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_170541_h.webp",
+        "width": 626,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_170653.webp",
+        "width": 800,
+        "height": 594
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_171713.webp",
+        "width": 800,
+        "height": 571
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_171907_h.webp",
+        "width": 711,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_171940.webp",
+        "width": 596,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_172316.webp",
+        "width": 730,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_172352.webp",
+        "width": 596,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_172413.webp",
+        "width": 800,
+        "height": 737
+      },
+      {
+        "file": "assets/images/9/Photoroom_20250221_172444.webp",
+        "width": 717,
+        "height": 800
+      },
+      {
+        "file": "assets/images/9/WhatsApp_Image_2024-12-14_at_11_03_18_397be418-removebg-preview.webp",
+        "width": 570,
+        "height": 144
+      },
+      {
+        "file": "assets/images/9/WhatsApp_Image_2024-12-14_at_11_03_19_786a6c90-removebg-preview.webp",
+        "width": 573,
+        "height": 200
+      },
+      {
+        "file": "assets/images/9/WhatsApp_Image_2024-12-14_at_11_03_19_aaa8fc5c-removebg-preview.webp",
+        "width": 567,
+        "height": 139
+      }
+    ]
+  },
+  "Cover page": {
+    "number": null,
+    "crop_applied": true,
+    "images": [
+      {
+        "file": "assets/images/Cover_page/2024_07_28_23_11_18_IMG_2496.webp",
+        "width": 545,
+        "height": 800
+      },
+      {
+        "file": "assets/images/Cover_page/2025_07_30_11_16_38_IMG_2236.webp",
+        "width": 800,
+        "height": 738
+      }
+    ]
+  }
+}
